@@ -6,16 +6,20 @@ banner:
       is_scrolly: false
       label: Activate
       url: /generic
+    - is_primary: true
+      is_scrolly: false
+      label: Activate
+      url: /generic
   bottom_link:
     has_arrow: true
     is_scrolly: true
     label: Learn More
     url: '#one'
   subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
+    Blandit duis _accumsan_\
+    arcu sagittis viverra\
     blandit at Interdum.
-  title: Spectral
+  title: Spectralx
 sections:
   - background_style: style1
     component: Icons
