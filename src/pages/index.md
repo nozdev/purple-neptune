@@ -4,7 +4,7 @@ banner:
   actions:
     - is_primary: true
       is_scrolly: false
-      label: Activate
+      label: ActivateX
       url: /generic
     - is_primary: true
       is_scrolly: false
