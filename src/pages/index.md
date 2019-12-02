@@ -6,7 +6,7 @@ banner:
       is_scrolly: false
       label: ActivateX
       url: /generic
-    - is_primary: true
+    - is_primary: false
       is_scrolly: false
       label: Activate
       url: /generic
