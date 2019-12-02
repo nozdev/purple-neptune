@@ -13,7 +13,7 @@ banner:
   bottom_link:
     has_arrow: true
     is_scrolly: true
-    label: Learn More
+    label: Learn MoreX
     url: '#one'
   subtitle: |-
     Blandit duis _accumsan_\
